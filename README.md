@@ -53,3 +53,7 @@ B.Tech CSE (AI & ML) student at SRM Institute of Science and Technology (Class o
 ## 📫 Connect with me
 
 Feel free to explore my repositories or reach out to collaborate on AI/ML and full-stack projects!
+
+• [LinkedIn](https://www.linkedin.com/in/s-p-sricharan-a13340351)
+
+• [GitHub](https://github.com/Sricharan1105)
