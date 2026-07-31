@@ -56,4 +56,6 @@ Feel free to explore my repositories or reach out to collaborate on AI/ML and fu
 
 • [LinkedIn](https://www.linkedin.com/in/s-p-sricharan-a13340351)
 
+• [LeetCode](https://leetcode.com/u/VQE0QZUEEZ/)
+
 • [GitHub](https://github.com/Sricharan1105)
